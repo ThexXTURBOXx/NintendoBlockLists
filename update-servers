@@ -1,6 +1,11 @@
+# Block OTA updates for console
 atumn.hac.lp1.d4c.nintendo.net
 sun.hac.lp1.d4c.nintendo.net
-beach.hac.lp1.eshop.nintendo.net
-dauth-lp1.ndas.srv.nintendo.net
-aqua.hac.lp1.d4c.nintendo.net
-aauth-lp1.ndas.srv.nintendo.net
+
+# Block updates for games
+#aqua.hac.lp1.d4c.nintendo.net
+
+# Block authentication and certification processes
+#beach.hac.lp1.eshop.nintendo.net
+#dauth-lp1.ndas.srv.nintendo.net
+#aauth-lp1.ndas.srv.nintendo.net
