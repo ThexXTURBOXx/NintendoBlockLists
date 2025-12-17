@@ -1,11 +1,16 @@
-# Block OTA updates for console
+# Block OTA updates for Switch console
 atumn.hac.lp1.d4c.nintendo.net
 sun.hac.lp1.d4c.nintendo.net
 
+# Block OTA updates for Switch 2 console
+atumn.p01.lp1.d4c.srv.nintendo.net
+sun.p01.lp1.d4c.srv.nintendo.net
+
 # Block updates for games
 #aqua.hac.lp1.d4c.nintendo.net
+#aqua.p01.lp1.d4c.srv.nintendo.net
 
-# Block authentication and certification processes
+# Block authentication and certification processes (NYI: Switch 2)
 #beach.hac.lp1.eshop.nintendo.net
 #dauth-lp1.ndas.srv.nintendo.net
 #aauth-lp1.ndas.srv.nintendo.net
